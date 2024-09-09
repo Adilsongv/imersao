@@ -3,8 +3,6 @@ function pesquisar(){
 
     let campoPesquisa = document.getElementById("buscaLivro").value;
 
-    console.log(campoPesquisa);
-
     if(campoPesquisa == ""){
         section.innerHTML = `<p> Pesquisa vazia não retorna valor, por favor digite algo. </p>`
         return
