@@ -13,5 +13,5 @@ Este projeto é um site simples para pesquisar e exibir resenhas de livros. O us
    ```bash
 git clone https://imersao/resenhando-livros.git
   * `https:///resenhando-livros.git`: Substitua pela URL do seu repositório.
-  * `[Adilson]`
-  * `[adilsongv@gmail.com]`
+  * `Adilson`
+  * `adilsongv@gmail.com`
