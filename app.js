@@ -3,7 +3,7 @@ function pesquisar(){
 
     let campoPesquisa = document.getElementById("buscaLivro").value;
 
-    if(campoPesquisa == ""){
+    if(!campoPesquisa){
         section.innerHTML = `<p> Pesquisa vazia não retorna valor, por favor digite algo. </p>`
         return
     }
@@ -35,7 +35,7 @@ for (let dado of dados){
     }
 
     if(!resultados){
-        resultados = `<p> Nada foi encontrado. </p>`
+        resultados = "Nada foi encontrado." 
     }
 }
 
