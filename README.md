@@ -12,6 +12,6 @@ Este projeto é um site simples para pesquisar e exibir resenhas de livros. O us
 1. **Clonar o repositório:**
    ```bash
 git clone https://imersao/resenhando-livros.git
-  * `https://imersao-crfj7bhiy-adilsons-projects-a95d51b4.vercel.app/`
+  * https://imersao-crfj7bhiy-adilsons-projects-a95d51b4.vercel.app/
   * `Adilson`
   * `adilsongv@gmail.com`
